@@ -1,0 +1,79 @@
+.container {
+    max-width: 1500px;
+}
+
+.content-outer {
+    max-width: 100vw;
+}
+
+.navbar-collapse {
+    margin: 0px;
+}
+
+.collapse.in {
+    clear: both;
+}
+
+.collapsing {
+    clear: both;
+}
+
+.navbar-default img {
+    max-height: 40px;
+    max-width: 400px;
+    margin: 5px;
+}
+
+.navbar-default {
+    display: inline-block;
+}
+
+.navbar-brand {
+    padding-left: 5px;
+}
+
+.gallery {
+    text-align: center;
+}
+
+.gallery br {
+    display: none;
+}
+
+.gallery img {
+    max-width: 100%;
+    clear: none !important;
+    display: inline-block !important;
+    padding: 5px;
+    text-align: center;
+}
+
+.gallery div {
+    display: inline-block;
+    text-align: center;
+    min-width: 32%;
+}
+
+.separator {
+    clear: none;
+}
+
+.blog-admin img {
+    width: 30px;
+    height: 30px;
+    z-index: 1000;
+}
+
+#Image2 {
+    z-index: 10;
+}
+
+#Text1 {
+    z-index: 10;
+}
+
+.post-outer {
+    min-height: 10px;
+    padding-top: 80px;
+    padding-bottom: 10px;
+}
