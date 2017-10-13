@@ -172,3 +172,8 @@ body {
 #contact img {
   padding-top: 120px;
 }
+
+body .navbar {
+  height: inherit;
+  min-height: 30px;
+}
