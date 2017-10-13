@@ -168,12 +168,15 @@ body {
   padding-bottom: 15px;
 }
 
-#about img,
-#contact img {
+#about img, #contact img {
   padding-top: 120px;
 }
 
 body .navbar {
   height: inherit;
   min-height: 30px;
+}
+
+[ng\:cloak], [ng-cloak], .ng-cloak {
+  display: none !important;
 }
