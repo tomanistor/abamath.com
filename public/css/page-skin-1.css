@@ -34,18 +34,6 @@ a:hover {
     width: 100%;
 }
 
-.middle {
-    top: 20%;
-    position: absolute;
-    width: 100%;
-}
-
-.top {
-    top: 40px;
-    position: absolute;
-    width: 100%;
-}
-
 .regular-link {
     color: #219ab3;
     border: 0px;
@@ -73,12 +61,6 @@ a:hover {
     height: auto !important;
 }
 
-.doesntexist {
-    margin-left: -1em;
-    margin-right: -1em;
-    padding: -1em;
-}
-
 /* Header */
 
 .header-outer {
@@ -88,29 +70,6 @@ a:hover {
     padding: 0px;
     margin: 0px;
     overflow: hidden;
-}
-
-.Header {
-    min-height: 30px;
-    min-width: 30px;
-}
-
-.Header h1 {
-    font: normal normal 60px Arial, Tahoma, Helvetica, FreeSans, sans-serif;
-    color: #ffffff;
-    text-shadow: 1px 2px 3px rgba(0, 0, 0, .75);
-    padding-top: 50px;
-    bottom: 0px;
-}
-
-.Header h1 a {
-    color: #ffffff;
-}
-
-.Header .description {
-    font-size: 140%;
-    color: #ffffff;
-    text-shadow: 1px 2px 3px rgba(0, 0, 0, .75);
 }
 
 .header-inner .Header .titlewrapper {
@@ -130,17 +89,6 @@ a:hover {
 #Image2 {
     float: left;
     display: inline-block;
-}
-
-#Text1 {
-    float: left;
-    display: inline-block;
-}
-
-.tabs-image {
-    max-height: 10px;
-    max-width: 200px;
-    margin: 8px;
 }
 
 /* Widgets */
@@ -187,12 +135,6 @@ a:hover {
     font-size: 110%;
     line-height: 1.4;
     position: relative;
-}
-
-.post-header {
-    margin: 0 0 1.5em;
-    line-height: 1.6;
-    font-size: 90%;
 }
 
 .footer-inner {
