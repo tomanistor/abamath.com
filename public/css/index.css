@@ -70,14 +70,6 @@ a:hover {
     overflow: hidden;
 }
 
-.header-inner .Header .titlewrapper {
-    padding: 22px 0px;
-}
-
-.header-inner .Header .descriptionwrapper {
-    padding: 0 0px;
-}
-
 .Header {
     min-height: 320px;
 }
@@ -96,10 +88,6 @@ a:hover {
     margin: 0;
     line-height: 1;
     border: 0;
-}
-
-.widget .popular-posts ul {
-    list-style: none;
 }
 
 .widget ul {
